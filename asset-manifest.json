@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/minting/static/css/main.b795fe85.chunk.css",
-    "main.js": "/minting/static/js/main.bb6ec1e9.chunk.js",
-    "main.js.map": "/minting/static/js/main.bb6ec1e9.chunk.js.map",
+    "main.js": "/minting/static/js/main.a76a9aba.chunk.js",
+    "main.js.map": "/minting/static/js/main.a76a9aba.chunk.js.map",
     "runtime-main.js": "/minting/static/js/runtime-main.3e7026b1.js",
     "runtime-main.js.map": "/minting/static/js/runtime-main.3e7026b1.js.map",
     "static/js/2.62873205.chunk.js": "/minting/static/js/2.62873205.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/minting/index.html",
     "static/css/main.b795fe85.chunk.css.map": "/minting/static/css/main.b795fe85.chunk.css.map",
     "static/js/2.62873205.chunk.js.LICENSE.txt": "/minting/static/js/2.62873205.chunk.js.LICENSE.txt",
-    "static/media/1.75f03515.png": "/minting/static/media/1.75f03515.png",
+    "static/media/1.877b32ab.png": "/minting/static/media/1.877b32ab.png",
     "static/media/reset.css": "/minting/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3e7026b1.js",
     "static/js/2.62873205.chunk.js",
     "static/css/main.b795fe85.chunk.css",
-    "static/js/main.bb6ec1e9.chunk.js"
+    "static/js/main.a76a9aba.chunk.js"
   ]
 }
